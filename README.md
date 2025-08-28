@@ -39,12 +39,13 @@ teacher-student architectures.
 
 ## Citation:
   ```
-@inproceedings{nayer,
+@article{ding2025joint,
   title={Joint class attention knowledge and self-knowledge for multi-teacher knowledge distillation},
-  author={Ding Yifeng, Yang Gaoming, Ye Xinxin, Wang xiujun, Liu zhi},
-  booktitle={Engineering Applications of Artificial Intelligence},
-  vol={160},
+  author={Ding, Yifeng and Yang, Gaoming and Ye, Xinxin and Wang, Xiujun and Liu, Zhi},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={160},
   pages={111922},
-  year={2025}
+  year={2025},
+  publisher={Elsevier}
 }
   ```
