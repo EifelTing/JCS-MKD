@@ -26,7 +26,7 @@ enabling the student to refine their understanding independently. Experimental r
 datasets demonstrate that JCS-MKD consistently outperforms state-of-the-art distillation methods across various
 teacher-student architectures. 
 
-## Method
+## Overall Pipeline
 
 ![alt text](https://github.com/EifelTing/JCS-MKD/blob/main/fig2.png)
 
