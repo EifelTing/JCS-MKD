@@ -1,7 +1,7 @@
 ## The source code for "Joint class attention knowledge and self-knowledge for multi-teacher knowledge distillation" accepted by Engineering Applications of Artificial Intelligence (EAAI) 2025.
 ## Paper link: https://doi.org/10.1016/j.engappai.2025.111922
 
-## Motivation
+## Comparison
 
 ![alt text](https://github.com/EifelTing/JCS-MKD/blob/main/fig1.png)
 
